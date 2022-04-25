@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ContaCorrenteTeste" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-25T13:18:31" hostname="LAPTOP-002J9KM7" time="0.061">
+  <properties/>
+  <testcase name="deveAdicionarSaldoEVerificarValorFinal()" classname="ContaCorrenteTeste" time="0.061"/>
+  <system-out><![CDATA[Depositando: 1345.0
+Novo saldo: 2345.0
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
